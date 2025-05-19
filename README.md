@@ -20,6 +20,7 @@ Mostra que as hashs dos 3 hosts `# gnunet-peerinfo`
 
 (se a imagem não  abrir, basta clicar no hyperlink)
 
+---
 
 **Info host 2**:
 
@@ -27,11 +28,14 @@ Mostra que as hashs dos 3 hosts `# gnunet-peerinfo`
 
 (se a imagem não  abrir, basta clicar no hyperlink)
 
+---
+
 **Info host 3**:
 
 ![info_host3](https://raw.githubusercontent.com/lucasprad05/SistDistL2LAB3/main/info_host3.png)
 
 (se a imagem não  abrir, basta clicar no hyperlink)
+
 ---
 
 **Publish and Search**:  
