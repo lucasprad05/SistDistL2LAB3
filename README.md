@@ -42,7 +42,7 @@ Mostra que as hashs dos 3 hosts `# gnunet-peerinfo`
 Mostra a publicação do arquivo fortuna.txt e a procura dele `# gnunet-publish...` e `# gnunet-search`  
 OBS: O arquivo fortuna.txt da referência [4] é o circulado em verde, uma vez que o outro era apenas um txt simples para teste
 
-![publish_search](https://raw.githubusercontent.com/lucasprad05/SistDistL2LAB3/main/publish_search.png)
+![publish_search]([https://raw.githubusercontent.com/lucasprad05/SistDistL2LAB3/main/publish_search.png)
 
 (se a imagem não  abrir, basta clicar no hyperlink)
 
