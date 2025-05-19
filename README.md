@@ -13,13 +13,16 @@ Mostra as hash de todos os hosts pelo comando `# gnunet-peerinfo -s`
 
 **Info host 1**:  
 Mostra que as hashs dos 3 hosts `# gnunet-peerinfo`
+
 ![info_host1](https://raw.githubusercontent.com/lucasprad05/SistDistL2LAB3/main/info_host1.png)  
 
 
 **Info host 2**:
+
 ![info_host2](https://raw.githubusercontent.com/lucasprad05/SistDistL2LAB3/main/info_host2.png)  
 
 **Info host 3**:
+
 ![info_host3](https://raw.githubusercontent.com/lucasprad05/SistDistL2LAB3/main/info_host3.png)
 ---
 
